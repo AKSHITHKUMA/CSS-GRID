@@ -1,0 +1,82 @@
+body {
+    background-color: blanchedalmond;
+  }
+  .grid-container {
+    display: grid;
+    height: 700px;
+    width: 700px;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+    grid-gap: 20px;
+    
+  }
+  .header {
+    text-align: center;
+    color: red;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    font-size: 70px;
+  }
+  .grid-item-1 {
+    border: 2px solid black;
+    grid-area: auto;
+    
+  }
+  .grid-item-2 {
+    border: 2px solid black;
+    grid-area: auto;
+  }
+  .grid-item-3 {
+    border: 2px solid black;
+    grid-area: auto;
+  }
+  .grid-item-4 {
+    border: 2px solid black;
+    grid-area: auto;
+  }
+  .grid-item-5 {
+    border: 2px solid black;
+    grid-area: auto;
+  }
+  .grid-item-6 {
+    border: 2px solid black;
+    grid-area: auto;
+  }
+  .grid-item-7 {
+    border: 2px solid black;
+    grid-area: auto;
+  }
+  .grid-item-8 {
+    border: 2px solid black;
+    grid-area: auto;
+  }
+  .grid-item-9 {
+    border: 2px solid black;
+    grid-area: auto;
+  }
+  .img1 {
+    height: 700px;
+    width: 700px;
+  }
+  .img2 {
+    height: 700px;
+    width: 700px;
+  }
+  .img3 {
+    height: 700px;
+    width: 700px;
+  }
+  .img4 {
+    height: 700px;
+    width: 700px;
+  }
+  .img5 {
+    height: 700px;
+    width: 700px;
+  }
+  .img6 {
+    height: 700px;
+    width: 700px;
+  }
+  
